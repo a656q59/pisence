@@ -1,0 +1,16 @@
+#my-pie-chart-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+#my-pie-chart {
+    background: conic-gradient( green 0.00% 60%,red 40%);
+    border-radius: 50%;
+      width: 150px;
+      height: 150px;
+      border:1px solid black
+  }
+
+
+  
